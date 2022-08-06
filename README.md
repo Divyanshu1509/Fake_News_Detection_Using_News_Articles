@@ -42,8 +42,8 @@ The file structure is the following
 ## Try It Out
 
 1. Clone the repo to your local machine-  
-`> git clone git://github.com/FakeNewsDetection/FakeBuster.git`  
-`> cd FakeBuster`
+`> git clone git://github.com/Divyanshu1509/Fake_News_Detection_Using_News_Articles.git`  
+`> cd Fake_News_Detection_Using_News_Articles
 
 2. Make sure you have all the dependencies installed-  
  * python 3.6+
